@@ -3,8 +3,10 @@ Server commands for the Blaine County Department of Public Safety (BCDPSRP)
 
 Crouch Script
 To crouch press left ctrl to toggle on/off
+
 Emotes
 In text chat type /emote (action)
+
 Actions
 ['smoke'] = "WORLD_HUMAN_SMOKING",
 ['cop'] = "WORLD_HUMAN_COP_IDLES",
